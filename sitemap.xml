@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/11/12/1-2%E5%BC%A6%E6%8C%AF%E5%8A%A8%E6%96%B9%E7%A8%8B/</loc>
+    <loc>http://www.guanzhou666.com/2020/11/12/1-2%E5%BC%A6%E6%8C%AF%E5%8A%A8%E6%96%B9%E7%A8%8B/</loc>
     
     <lastmod>2020-11-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/11/12/1-1%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9A%E8%A7%A3%E9%97%AE%E9%A2%98/</loc>
+    <loc>http://www.guanzhou666.com/2020/11/12/1-1%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9A%E8%A7%A3%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2020-11-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/11/09/hello-world/</loc>
+    <loc>http://www.guanzhou666.com/2020/11/09/hello-world/</loc>
     
     <lastmod>2020-11-11</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index-1.html</loc>
+    <loc>http://www.guanzhou666.com/categories/index-1.html</loc>
     
     <lastmod>2020-11-11</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/sitemap/index.html</loc>
+    <loc>http://www.guanzhou666.com/sitemap/index.html</loc>
     
     <lastmod>2020-11-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://www.guanzhou666.com/tags/index.html</loc>
     
     <lastmod>2020-11-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://www.guanzhou666.com/about/index.html</loc>
     
     <lastmod>2020-11-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/resources/index.html</loc>
+    <loc>http://www.guanzhou666.com/resources/index.html</loc>
     
     <lastmod>2020-11-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://www.guanzhou666.com/categories/index.html</loc>
     
     <lastmod>2020-11-09</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://www.guanzhou666.com/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,7 +74,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/Mathematical-Physics/</loc>
+    <loc>http://www.guanzhou666.com/tags/Mathematical-Physics/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -83,14 +83,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://www.guanzhou666.com/categories/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Hexo-Guide/</loc>
+    <loc>http://www.guanzhou666.com/categories/Hexo-Guide/</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
